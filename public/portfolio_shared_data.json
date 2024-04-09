@@ -1,0 +1,63 @@
+{
+    "basic_info": {
+      "name": "Sidi Daoudi",
+      "titles": [ "Développeur Front-End", "Junior", "Passionné"],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com",
+          "class": "fab fa-github"
+        }
+      ],
+      "image": "img-avatar.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
+          "level": "90"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "Sass",
+          "class": "devicon-sass-original",
+          "level": "75"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        },
+        {
+          "name": "Sympfony",
+          "class": "devicon-symfony-plain",
+          "level": "65"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "65"
+        },
+         {
+          "name": "PHP",
+          "class": "devicon-php-plain",
+          "level": "65"
+        }
+      ]
+    }
+  }

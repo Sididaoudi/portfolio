@@ -1,0 +1,106 @@
+{
+    "basic_info": {
+      "description_header": "Bonjour",
+      "description": "Bonjour, je m'apppelle Sidi et je suis passionné par l'informatique.",
+      "section_name": {
+        "about": "A propos",
+        "projects": "Projets",
+        "skills": "Compétences",
+        "experience": "Expériences"
+      }
+    },
+    "projects": [
+      {
+        "title": "Futur projet",
+        "startDate": "2024",
+        "description": "Bientôt",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          }
+        ]
+      },
+      {
+        "title": "Univers manga",
+        "startDate": "2024",
+        "description": "Développement d'une application web ayant pour sujet les mangas.",
+        "images": [
+          "images/portfolio/univers-manga/site-main.png",
+          "images/portfolio/univers-manga/page-website.png"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          }
+        ]
+      },
+      {
+        "title": "My Body Date",
+        "startDate": "2023",
+        "description": "Projet réaliser dans le cadre de ma formation développeur d'applications multimédia. J'ai été responsable du coté Front-end.",
+        "images": [
+          "images/portfolio/my-body-date/main-img.png",
+          "images/portfolio/my-body-date/img-more-info.png"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+           {
+            "class": "devicon-css3-plain",
+            "name": "css"
+          }
+
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "My Body Knowledge",
+        "title": "Développeur Front-End en stage",
+        "years": "Mai 2023 - Juillet 2023",
+        "mainTech": [
+          "HTML, CSS, JavaScript"
+        ],
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ]
+      },
+      {
+        "company": "Openclassrooms",
+        "title": "Développeur Front-End en formation",
+        "years": "Mai 2021 - Juillet 2021",
+        "mainTech": [
+          "HTML, CSS"
+        ],
+        "technologies": [
+          "HTML",
+          "CSS"
+        ]
+      }
+    ]
+  }
